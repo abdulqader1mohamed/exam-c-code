@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5Lab", "Day5Lab\Day5Lab.csproj", "{E94568E7-70E1-4C7E-97B2-B4E306831321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5Lab II", "Day5Lab II\Day5Lab II.csproj", "{6AEAABEA-C1BA-4320-B0B2-77764B6E320F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94568E7-70E1-4C7E-97B2-B4E306831321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94568E7-70E1-4C7E-97B2-B4E306831321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94568E7-70E1-4C7E-97B2-B4E306831321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94568E7-70E1-4C7E-97B2-B4E306831321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEAABEA-C1BA-4320-B0B2-77764B6E320F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEAABEA-C1BA-4320-B0B2-77764B6E320F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEAABEA-C1BA-4320-B0B2-77764B6E320F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEAABEA-C1BA-4320-B0B2-77764B6E320F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF9306D6-B69B-469D-AF68-010D18880C6E}
+	EndGlobalSection
+EndGlobal
